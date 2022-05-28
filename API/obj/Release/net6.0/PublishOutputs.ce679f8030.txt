@@ -1,0 +1,11 @@
+C:\Users\Acer\source\repos\TestAPI\API\bin\Release\net6.0\publish\API.exe
+C:\Users\Acer\source\repos\TestAPI\API\bin\Release\net6.0\publish\appsettings.Development.json
+C:\Users\Acer\source\repos\TestAPI\API\bin\Release\net6.0\publish\appsettings.json
+C:\Users\Acer\source\repos\TestAPI\API\bin\Release\net6.0\publish\API.dll
+C:\Users\Acer\source\repos\TestAPI\API\bin\Release\net6.0\publish\API.deps.json
+C:\Users\Acer\source\repos\TestAPI\API\bin\Release\net6.0\publish\API.runtimeconfig.json
+C:\Users\Acer\source\repos\TestAPI\API\bin\Release\net6.0\publish\API.pdb
+C:\Users\Acer\source\repos\TestAPI\API\bin\Release\net6.0\publish\Microsoft.OpenApi.dll
+C:\Users\Acer\source\repos\TestAPI\API\bin\Release\net6.0\publish\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Acer\source\repos\TestAPI\API\bin\Release\net6.0\publish\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Acer\source\repos\TestAPI\API\bin\Release\net6.0\publish\Swashbuckle.AspNetCore.SwaggerUI.dll
